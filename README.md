@@ -1,5 +1,5 @@
 # Watermark!
-The programm resizes PNG and JPG images and adds text watermark
+The program resizes PNG and JPG images and adds text watermark
 
 **Before:**
 
