@@ -3,8 +3,9 @@ The program resizes PNG and JPG images and adds text watermark
 
 **Before:**
 
-![brөh](https://user-images.githubusercontent.com/96821799/167916945-1359a81d-5572-4c1f-b629-2ecb2bf3b8cb.jpg)
+![chad](https://user-images.githubusercontent.com/96821799/168427934-89564b97-6487-430f-a16f-6e98c984e860.jpg)
 
 **After:**
-![brөh](https://user-images.githubusercontent.com/96821799/167916989-96f43c50-0469-4c57-bdd9-9516b26920f5.jpg)
+
+![chad](https://user-images.githubusercontent.com/96821799/168427958-ce17e183-0061-4934-b70d-bfa294eda9da.jpg)
 
